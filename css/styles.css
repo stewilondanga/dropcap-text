@@ -32,7 +32,7 @@ p {
   border-radius: 3px;
 }
 
-/*p::first-letter {
+p::first-letter {
   font-size: 75px;
   float: left;
   line-height: 1;
@@ -43,7 +43,7 @@ p {
   color: white;
 }
 
-p::first-line {
+/*p::first-line {
   font-weight: 700;
   font-size: 1.25em;
 }
