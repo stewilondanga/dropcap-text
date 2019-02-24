@@ -26,13 +26,13 @@ h1 {
   margin: 30px;
 }
 
-/*p {
+p {
   width: 600px;
   margin: auto;
   border-radius: 3px;
 }
 
-p::first-letter {
+/*p::first-letter {
   font-size: 75px;
   float: left;
   line-height: 1;
