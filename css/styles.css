@@ -1,4 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Varela+Round");
+
+body {
+  background: #abd1c8;
+  font-family: 'Varela Round', sans-serif;
+  color: #1a1a1a;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -22,11 +29,6 @@
   height: 1.5em;
 }
 
-body {
-  background: #abd1c8;
-  font-family: 'Varela Round', sans-serif;
-  color: #1a1a1a;
-}
 
 h1 {
   text-align: center;
